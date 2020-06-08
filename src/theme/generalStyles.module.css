@@ -1,0 +1,34 @@
+.backgroundAll {
+    --background: url('/assets/img/25544.jpg')0 0/100% 100% no-repeat;
+}
+
+.logo {
+    text-align: center;
+    height: 50px;
+}
+
+.toolbar {
+    height: 50px;
+}
+
+.subToolbar {
+    height: 40px;
+}
+
+.footer {
+    margin-left: 50%;
+}
+
+
+/*SubMenu*/
+
+.buttonSubmenu {
+    padding-left: 3px;
+    padding-right: 3px;
+    --ion-color-btn: #2224285;
+    --background: var(--ion-color-btn);
+}
+
+.buttonSubmenu:hover {
+    --background-hover: #FFC409
+}
